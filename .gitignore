@@ -1,0 +1,7 @@
+.idea
+.env
+__pycache__
+.git
+dataset_preprocessed/**
+dataset/**
+egg_term_model.h5
